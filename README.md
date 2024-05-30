@@ -4,7 +4,7 @@
 Bildiğiniz gibi neredeyse bütün programlar ve sosyal medyalar kişisel bilgilerinizi alıp ürün niyetine satıyor... <br> Geçenlerde ülkemizde yaşanan üzücü patlama olayından sonra internet kullanımımız yavaşlatıldı ve neredeyse sosyal medyalara erişemeyecek durumda bırakıldık. İnternetten indirdiğiniz çoğu ücretsiz VPNler sizi adeta izleyip verilerinizi depoluyor ve bunu kendi çıkartları için kullanıyor. Ben de bundan kaçınmak için araştırmaya başladım ve vps serverların aynı zamanda vpn olarak kullanılabildiğini öğrendim. <br> <br>  Genelde çoğumuz VPSleri Ağ testnetlerini kullanmak için aldık, bu işlem VPS serverınıza ve içinde bulunan node'a hiç bir zarar vermez, uptimeı düşürmez rahatlıkla kullanabilirsiniz. 
 
 ## İhtiyacımız olan programlar
-### 1) VPS Sunucu
+### 1) VPS Sunucu ( Min UBUNTU 22.04)
   - Aktif bir sunucuya ihtiyacınız var, sunucu özellikleri fark etmiyor en düşük sistemlerde de çalışır.
   
 ### 2) Sunucunuza bağlanmak için herhangi bir ssh terminali (mobaxterm üzerinden anlatıcam)
