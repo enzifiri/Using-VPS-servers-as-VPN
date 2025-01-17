@@ -31,15 +31,7 @@ Bildiğiniz gibi neredeyse bütün programlar ve sosyal medyalar kişisel bilgil
   <br>
   <br>
   
-  # Kurulum bitti, şimdi .ovpn uzantılı dosyamızı oluşturalım.
-  ## Aşağıdaki komutu girin ve 1) Add a new client'i seçin
-  `wget https://git.io/vpn -O openvpn-install.sh && bash openvpn-install.sh` <br>
-  <br>
-  ![image](https://user-images.githubusercontent.com/76253089/208158342-f24e15b1-d326-4296-9e13-66bf105e7156.png)
   
-  ## isim olarak vpstovpn girin, entera bastıktan sonra dosyamız oluşacak şimdi bu dosyayı WinScp aracılığı ile bilgisayarımıza indirelim.
-  ![image](https://user-images.githubusercontent.com/76253089/208158501-77cd8c7d-f27a-45ed-8eb8-3ba20240d48b.png)
-
   ## WinScpyi açın ve sunucu bilgilerinizi girip bağlanın.
   ![image](https://user-images.githubusercontent.com/76253089/208159256-9c7b69a9-795a-4064-9b03-d55b7bb1237f.png)
 
